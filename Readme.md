@@ -1,5 +1,3 @@
-
-```markdown
 # Cricket Match Analysis
 
 This project fetches recent cricket match data from an API and performs key computations such as finding the highest score in an innings along with the team name and counting the number of matches with a total score of 300 or more from both teams. The results are printed to the console.
